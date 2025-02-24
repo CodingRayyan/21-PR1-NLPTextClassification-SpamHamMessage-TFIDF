@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9d7e982c-2b47-4aff-bab4-e0b1256b11fa)
+![image](https://github.com/user-attachments/assets/41eb858f-0f5c-43f1-8d42-04206040534c)
 
 # NLP Text Classification (TF-IDF) - Spam Message Detection,  98% Accuracy
 
